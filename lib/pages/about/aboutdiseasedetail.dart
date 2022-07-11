@@ -296,7 +296,7 @@ class _AboutDiseaseDetailState extends State<AboutDiseaseDetail> {
             ),
             const SizedBox(height: 8),
             const Text(
-              "วิธีการูแลรักษา",
+              "วิธีการดูแลรักษา",
               style: TextStyle(color: Colors.black87, fontSize: 20),
             ),
             const SizedBox(height: 8),
